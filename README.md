@@ -1,15 +1,14 @@
 # Denis Skryabin
 
-
-## Frontend developer
+## frontend developer
 
 
 ## Stack
 
-| Libs            | Languages  | Styles  |
-|-----------------|------------|---------|
-| React           | Javascript | CSS     |
-| Redux           | Typescript | SCSS    |
-| Redux-saga      |            | PostCSS |
-| Reduxjs/toolkit |            |         |
-| MobX            |            |         |
+| Languages  | Libs            | Styles  | CI        |
+|------------|-----------------|---------|-----------|
+| Javascript | React           | CSS     | GitHub    |
+| Typescript | Redux           | SCSS    | GitLab    |
+|            | Redux-saga      | PostCSS | BitBucket |
+|            | Reduxjs/toolkit |         |           |
+|            | MobX            |         |           |
