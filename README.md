@@ -5,10 +5,10 @@
 
 ## Stack
 
-| Languages  | Libs            | Styles  | CI        |
-|------------|-----------------|---------|-----------|
-| Javascript | React           | CSS     | GitHub    |
-| Typescript | Redux           | SCSS    | GitLab    |
-|            | Redux-saga      | PostCSS | BitBucket |
-|            | Reduxjs/toolkit |         |           |
-|            | MobX            |         |           |
+| Languages  | Libs            | Markup | Styles  | CI        |
+|------------|-----------------|--------|---------|-----------|
+| Javascript | React           | HTML   | CSS     | GitHub    |
+| Typescript | Redux           | PUG    | SCSS    | GitLab    |
+|            | Redux-saga      |        | PostCSS | BitBucket |
+|            | Reduxjs/toolkit |        |         |           |
+|            | MobX            |        |         |           |
