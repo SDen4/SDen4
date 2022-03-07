@@ -5,7 +5,7 @@
 
 ## Stack
 
-| **Languages** | **Libs**        | **Markup** | **Styles** | **CI**    |
+| **Languages** | **Libs**        | **Markup** | **Styles** | **CI/CD** |
 |---------------|-----------------|------------|------------|-----------|
 | Javascript    | React           | HTML       | CSS        | GitHub    |
 | Typescript    | Redux           | PUG        | SASS       | GitLab    |
