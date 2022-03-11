@@ -2,18 +2,6 @@
 
 ## frontend developer
 
-
-> Email-style angle brackets are used for blockquotes.
->> You can also nest them.
->>
-> * You can quote a list.
-> * Etc.
-
-> To break the nested blockquote, add a space between lines.
-
-Add another line to resume regular paragraph text.
-
-
 ## Stack
 
 | **Languages** | **Libs**        | **Markup** | **Styles** | **CI/CD** |
@@ -23,3 +11,5 @@ Add another line to resume regular paragraph text.
 |               | Redux-saga      |            | SCSS       | BitBucket |
 |               | Reduxjs/toolkit |            | PostCSS    |           |
 |               | MobX            |            |            |           |
+
+---
