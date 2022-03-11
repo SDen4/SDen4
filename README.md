@@ -1,6 +1,7 @@
 # Denis Skryabin
 
 ## frontend developer
+{: style="color: orange"}
 
 
 ## Stack
