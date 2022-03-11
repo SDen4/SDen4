@@ -1,7 +1,17 @@
 # Denis Skryabin
 
 ## frontend developer
-{: style="color: orange"}
+
+
+> Email-style angle brackets are used for blockquotes.
+>> You can also nest them.
+>>
+> * You can quote a list.
+> * Etc.
+
+> To break the nested blockquote, add a space between lines.
+
+Add another line to resume regular paragraph text.
 
 
 ## Stack
