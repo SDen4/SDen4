@@ -1,6 +1,6 @@
-# Denis Skryabin
+# Denis Skryabin   :octocat:
 
-## frontend developer 💻
+## frontend developer 💻 
 
 ## Stack
 
