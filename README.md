@@ -1,6 +1,6 @@
 # Denis Skryabin
 
-## frontend developer
+## frontend developer 💻
 
 ## Stack
 
