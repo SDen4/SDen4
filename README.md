@@ -28,5 +28,3 @@
     <img src="https://img.shields.io/badge/-email-white" alt="e-mail Badge" />
   </a>
 </span>
-
----
