@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="devicon.min.css">
 
-# Denis S.
+# Den S.
 
 ## frontend developer 💻 
 
