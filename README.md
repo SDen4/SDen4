@@ -16,16 +16,3 @@
 
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sden4&theme=dark&background=000000)](https://git.io/streak-stats)
-
-## Contacts
-<span align="left">
-  <a href="https://t.me/sden4">
-    <img src="https://img.shields.io/badge/-Telegram-blue" alt="Telegram Badge" />
-  </a>
-</span>
-
-<span align="left">
-  <a href="mailto:skryabin.denis@gmail.com">
-    <img src="https://img.shields.io/badge/-email-white" alt="e-mail Badge" />
-  </a>
-</span>
