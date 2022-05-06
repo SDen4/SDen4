@@ -2,7 +2,7 @@
 
 # Den S.
 
-## frontend developer 💻 
+## Frontend Developer 💻 
 
 ## Stack
 
