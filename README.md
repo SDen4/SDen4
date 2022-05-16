@@ -15,4 +15,4 @@
 |               | MobX            |            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width='14' height='14' /> materialui           |           |               |              |
 
 ## Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sden4&theme=gruvbox_duo&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sden4&theme=slateorange&background=000000)](https://git.io/streak-stats)
