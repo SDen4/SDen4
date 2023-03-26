@@ -4,8 +4,6 @@
 
 ## Frontend Developer 👨‍💻
 
-## Stack
-
 | &nbsp;&nbsp;&nbsp;***Languages***&nbsp;&nbsp;&nbsp; | ***Libs*** | &nbsp;&nbsp;&nbsp;***Markup***&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Styles***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***CI/CD***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Test***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;***Bundlers***&nbsp;&nbsp;&nbsp;&nbsp; |
 |-----------------|-------------------|--------------|--------------|-------------|-----------------|----------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='14' height='14' /> Javascript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='14' height='14' /> React           | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='14' height='14' /> HTML       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='14' height='14' /> CSS        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width='14' height='14' /> GitHub    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width='14' height='14' /> jest          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" width='14' height='14' /> Webpack      |
