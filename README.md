@@ -10,7 +10,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='14' height='14' /> Typescript    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width='14' height='14' /> Redux           | PUG        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width='14' height='14' /> SASS       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width='14' height='14' /> GitLab    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width='14' height='14' /> storybook    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width='14' height='14' />Gulp         |
 |               | Redux-saga      |            | SCSS       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width='14' height='14' /> BitBucket | pixel perfect |              |
 |               | Reduxjs/toolkit |            | PostCSS    |           | husky              |              |
-|               | MobX            |            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width='14' height='14' /> materialui           |           |               |              |
+|               | MobX            |            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width='14' height='14' /> materialui           |           | Playwright      |              |
 
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sden4&theme=slateorange&background=000000)](https://git.io/streak-stats)
